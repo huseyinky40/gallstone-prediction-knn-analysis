@@ -3,7 +3,7 @@
 This repository contains the source code and research analysis for predicting gallstone formation using non-invasive clinical data. The project focuses on identifying "look-alike" patient profiles using k-Nearest Neighbors (k-NN) and ensemble machine learning models to support early diagnosis.
 
 ## Authors
-* **Ada Şevval Sarı** - [GitHub](https://github.com/AdaSari34)
+* **Ada Şevval Sarı** - [GitHub](https://github.com/AdaSevvalSari)
 * **Hüseyin Kaya** - [GitHub](https://github.com/huseyinky40)
 * **Mert Kıyar** - [GitHub](https://github.com/mertkiyar)
 
